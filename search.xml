@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>dlrow-olleh</title>
+    <url>//test/</url>
+    <content><![CDATA[<h2 id="hello-world"><a href="#hello-world" class="headerlink" title="hello world!"></a>hello world!</h2><span id="more"></span>
+
+<p>**ok啊兄弟们,那么这就是我制作的第一个个人博客文章了<br>我的目标,就是做一个属于我自己的网站！<br>以后我会用这个博客来放一堆东西,可能什么都有<br>希望能彻底成功</p>
+<p style="text-align: right">Latarmos<br>2023年03月26日</p>
+]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
+      <tags>
+        <tag>basepoint,Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/posts/16107.html</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>博客更新时间线兼旧博客关于页面</title>
+    <url>//timelinenow/</url>
+    <content><![CDATA[<h3 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h3><span id="more"></span>
+<ul>
+<li>本文章是我在上一个博客主题中写的关于页面，由于主题更换，该页面已不可用，所以我打算将其变为时间线来记录博客的更新内容<br>顺便说一句，标明了（旧内容）的段落是已过期的内容，最好别信了</li>
+</ul>
+<h2 id="时间线"><a href="#时间线" class="headerlink" title="时间线"></a>时间线</h2><!-- more -->
+<ul>
+<li><p><em><strong>2023年，arknights主题时期</strong></em>（旧内容）<br>2月 在B站上刷到名为<a href="https://space.bilibili.com/490105934?spm_id_from=333.788.0.0">超详细！0成本搭建个人网站！！【建议收藏】</a>的视频，有了搭建博客的想法<br>3月26日 博客搭建成功，但只有两篇文章和空旷的页面<br>4月25日 博客正式上线，开始后续完善<br>4月26日 更新about和contact页面</p>
+</li>
+<li><p><em><strong>2023年，anzhiyu主题时期</strong></em><br>5月27日 因为想整个<del>更加花哨且</del>功能更多的博客，把<a href="https://github.com/Yue-plus/hexo-theme-arknights">前主题</a>更换为由<a href="https://anzhiy.cn/">安知鱼</a>开发的<a href="https://github.com/anzhiyu-c/hexo-theme-anzhiyu">anzhiyu</a>主题，并对之前的博客内容进行大改<br>5月29日，博客图床搭建完成，可以显示图片了<br>5月30日至6月2日，对博客的再次配置初步完成，并添加了<a href="https://github.com/DIYgod/APlayer">APlayer</a>插件，<a href="https://github.com/HCLonely/hexo-bilibili-bangumi">追番插件</a>和众多博客的新页面<br>6月4日，添加了<a href="https://github.com/LouisBarranqueiro/hexo-algoliasearch">algolia搜索系统</a>和<a href="https://github.com/imaegoo/twikoo">Twikoo评论系统</a>，可以搜索内容和评论了</p>
+</li>
+</ul>
+<h2 id="关于我自己（旧内容）"><a href="#关于我自己（旧内容）" class="headerlink" title="关于我自己（旧内容）"></a>关于我自己（旧内容）</h2><!-- more -->
+<ul>
+<li>我叫Latarmos，译名拉塔莫斯，取这个网名的原因只是我觉得顺口而已</li>
+<li>我还有对应其他身份的网名，以防社死之类的</li>
+<li>本人没什么nb的架子，只是一个啥都不会的14岁fw初中牲罢了</li>
+<li>广西南宁人，不喜欢当地这热得要死的阴间天气</li>
+<li>成分复杂，网络批发商+渣机党+AI魔导师+推友+up+抽象ylg… 主打的就是一个多样性</li>
+<li>文学水平过拉，可以生产出完美的厕纸</li>
+<li>又菜又爱玩，啥都想学，但只能让收藏的教程吃灰</li>
+<li>完全不会编程，<del>搭建博客的目的就是为了在同学面前装杯</del></li>
+<li>在网络上的工作就是发几张用AI生成的低质量图片（你现在看到的博客背景图就是我跑的）</li>
+<li>混沌中立，有事优先看乐子，火烧不到我我就是赢家</li>
+</ul>
+<h2 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h2><!-- more -->
+<ul>
+<li><a href="https://github.com/Latarmos">Github</a></li>
+<li><a href="https://space.bilibili.com/490105934?spm_id_from=333.788.0.0">Bilibili</a></li>
+<li><a href="https://www.pixiv.net/users/54203247">Pixiv</a></li>
+<li><a href="https://www.youtube.com/@TdmLatarmos/featured">Youtube</a></li>
+<li><a href="https://twitter.com/philskeleton">Twitter</a></li>
+</ul>
+<p>有时间也可以看下我在其他网站上的内容</p>
+<h2 id="关于博客（旧内容）"><a href="#关于博客（旧内容）" class="headerlink" title="关于博客（旧内容）"></a>关于博客（旧内容）</h2><!-- more -->
+<p>本博客使用<a href="https://hexo.io/">Hexo</a>搭建，安装主题为由<a href="https://github.com/Yue-plus">Yue_Plus</a>制作的<a href="https://github.com/Yue-plus/hexo-theme-arknights">Arknights</a>主题，并被部署至GitHub Pages上</p>
+<p>该博客可能什么玩意都有，但一定不会有技术类文章<font color="white">毕竟我也不是会打代码的人</font><br>本博客于2023年3月26日上线，苟了得有几十天吧<br>现在基本啥都没有，等我以后再搞</p>
+<h2 id="其他内容（旧内容）"><a href="#其他内容（旧内容）" class="headerlink" title="其他内容（旧内容）"></a>其他内容（旧内容）</h2><!-- more -->
+<p>本页介绍格式源于angine<a href="https://angine.tech/about/">博客中的about页面</a></p>
+]]></content>
+      <categories>
+        <category>旧博客关于页面</category>
+      </categories>
+      <tags>
+        <tag>old about,timeline,Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>写博客时的感想</title>
+    <url>//Reflections/</url>
+    <content><![CDATA[<h1 id="省流"><a href="#省流" class="headerlink" title="省流"></a>省流</h1><ul>
+<li>本文主要是写我搭博客时的牢骚，没有实际知识</li>
+</ul>
+<h3 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h3><p>写了几个月的博客了，来说下我作为一个外行编程人的感想吧<br>我只是个初中生，没什么实际的知识，整这东西是纯粹的出于兴趣而已<br>我第一次了解博客还是在大约三年前吧，当时为了找游戏资源看了某个人的评论进了他博客，那页面就…十分的精致，和我在信息课上做的完全不一样，我当时觉得这种东西泰裤辣，后来上网找资源也进过其他的博客，我就主观的认为建个网站应该挺容易的 <del>(我想回到那个时候给当时的我狠狠来个大嘴巴子)</del>,所以直接去童厕(即B站)搜了如何建网站的教程，然后人就崩了</p>
+<h3 id="鸽了-等我慢慢补完"><a href="#鸽了-等我慢慢补完" class="headerlink" title="鸽了,等我慢慢补完"></a>鸽了,等我慢慢补完</h3>]]></content>
+      <categories>
+        <category>没有干货</category>
+      </categories>
+      <tags>
+        <tag>Reflections,Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>喂俺的炊饼,马飞</title>
+    <url>//buildsuccess/</url>
+    <content><![CDATA[<h2 id="win-我终于搭建好博客了！"><a href="#win-我终于搭建好博客了！" class="headerlink" title="win!我终于搭建好博客了！"></a>win!我终于搭建好博客了！</h2><span id="more"></span>
+<p>太难绷了，我4月初的时候就搭好了，结果部署到github pages上的时候我打不开网站，我花了半个月去解决这问题，最后才发现是我打错域名了，我是散兵。<br>总之，我，Latarmos，14岁初中生，无代码基础，于2023年4月25日正式搭建完成自己的博客，毕业于b站<br><del>终于能用这东西在同学面前装杯了</del></p>
+<p><img src="https://cdn.staticaly.com/gh/Latarmos/blogepository@master/img/b1c74fe145a127905667a975b209f129490105934.jpg"></p>
+<p style="text-align: right">Latarmos<br>2023年04月25日</p>]]></content>
+      <categories>
+        <category>赢赢赢赢赢</category>
+      </categories>
+      <tags>
+        <tag>win,Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>关于我自己</title>
+    <url>/about/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/album/album.json</url>
+    <content><![CDATA[[{"url":"https://cdn.staticaly.com/gh/Latarmos/blogepository@master/img/IMG_0931.jpg","alt":"IMG_0556.jpg","title":"这是title"},{"url":"https://cdn.staticaly.com/gh/Latarmos/blogepository@master/img/IMG_0556.jpg","alt":"IMG_0472.jpg"},{"url":"https://cdn.staticaly.com/gh/Latarmos/blogepository@master/img/IMG_0472.jpg","alt":""},{"url":"https://cdn.staticaly.com/gh/Latarmos/blogepository@master/img/IMG_0453.jpg","alt":""}]]]></content>
+  </entry>
+  <entry>
+    <title>相册集</title>
+    <url>/album/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>分类</title>
+    <url>/categories/index.html</url>
+    <content><![CDATA[<style>
+  #libCategories .card-wrap:hover .card-info:after {
+    width: 300%;
+  }
+</style>
+<link rel="stylesheet" type="text/css" href="https://npm.elemecdn.com/js-heo@1.0.11/3dCard/no3d.css">
+
+<div id="libCategories">
+<div id="lib-cards" class="container">
+
+<a href="javascript:void(0);" onclick="pjax.loadUrl("/categories/Hexo/")">
+<card data-image="https://img02.anzhiy.cn/adminuploads/1/2022/09/05/6315e144528fb.webp">
+<h1 slot="header">Hexo</h1>
+<p slot="content">用Hexo时的苦痛经历。</p>
+</card>
+</a>
+
+<a href="javascript:void(0);" onclick="pjax.loadUrl("/categories/作品/")">
+  <card data-image="https://img02.anzhiy.cn/adminuploads/1/2022/09/05/6315e1433f197.webp">
+    <h1 slot="header">作品</h1>
+    <p slot="content">包含文学，影视和图像。</p>
+  </card>
+</a>
+
+<a href="javascript:void(0);" onclick="pjax.loadUrl("/categories/生活日常/")">
+  <card data-image="https://img02.anzhiy.cn/adminuploads/1/2022/09/05/6315e142a69a9.webp">
+    <h1 slot="header">生活</h1>
+    <p slot="content">和好朋友👬们一起经历的有趣事。</p>
+  </card>
+</a>
+
+</div>
+</div>
+
+<script src="https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/vue/2.6.14/vue.min.js" data-pjax></script>
+
+<script type="text/javascript" src="https://npm.elemecdn.com/anzhiyu-theme-static@1.0.7/no3d/no3d.js" data-pjax></script>
+]]></content>
+  </entry>
+  <entry>
+    <title>链接存放地</title>
+    <url>/contact/index.html</url>
+    <content><![CDATA[<p>该页面用于存放友链以及一些我常逛的其他网站链接，当然我现在既没啥能加的，也懒得想加链接，就先让它在这吃灰吧</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>日常生活</title>
+    <url>/dailyPhoto/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>即刻短文</title>
+    <url>/essay/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/json/music.json</url>
+    <content><![CDATA[[{"name":"青花瓷","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/青花瓷/青花瓷.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002eFUFm2XYZ7z_2.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/青花瓷/青花瓷.lrc"},{"name":"稻香","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/稻香/稻香.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/稻香/稻香.lrc"},{"name":"晴天","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/晴天/晴天.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000MkMni19ClKG_3.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/晴天/晴天.lrc"},{"name":"七里香","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/七里香/七里香.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003DFRzD192KKD_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/七里香/七里香.lrc"},{"name":"花海","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/花海/花海.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/花海/花海.lrc"},{"name":"反方向的钟","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/反方向的钟/反方向的钟.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000f01724fd7TH_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/反方向的钟/反方向的钟.lrc"},{"name":"兰亭序","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/兰亭序/兰亭序.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/兰亭序/兰亭序.lrc"},{"name":"说好的辛福呢","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/说好的辛福呢/说好的辛福呢.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/说好的辛福呢/说好的幸福呢.lrc"},{"name":"等你下课 (with 杨瑞代)","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/等你下课/等你下课.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003bSL0v4bpKAx_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/等你下课/等你下课.lrc"},{"name":"我落泪情绪零碎","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/我落泪情绪零碎/我落泪情绪零碎.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000bviBl4FjTpO_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/我落泪情绪零碎/我落泪情绪零碎.lrc"},{"name":"听妈妈的话","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/听妈妈的话/听妈妈的话.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002jLGWe16Tf1H_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/听妈妈的话/听妈妈的话.lrc"},{"name":"明明就","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/明明就/明明就.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003Ow85E3pnoqi_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/明明就/明明就.lrc"},{"name":"我是如此相信","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/我是如此相信/我是如此相信.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000001hGx1Z0so1YX_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/我是如此相信/我是如此相信.lrc"},{"name":"发如雪","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/发如雪/发如雪.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M0000024bjiL2aocxT_3.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/发如雪/发如雪.lrc"},{"name":"以父之名","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/以父之名/以父之名.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000MkMni19ClKG_3.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/以父之名/以父之名.lrc"},{"name":"园游会","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/园游会/园游会.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003DFRzD192KKD_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/园游会/园游会.lrc"},{"name":"本草纲目","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/本草纲目/本草纲目.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002jLGWe16Tf1H_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/本草纲目/本草纲目.lrc"},{"name":"龙卷风","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/龙卷风/龙卷风.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000f01724fd7TH_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/龙卷风/龙卷风.lrc"}]]]></content>
+  </entry>
+  <entry>
+    <title>json</title>
+    <url>/json/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>link</title>
+    <url>/link/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>音乐馆</title>
+    <url>/music/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>标签</title>
+    <url>/tags/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>其他内容</title>
+    <url>/wordScenery/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+</search>
